@@ -86,7 +86,7 @@ You should see:
 ```
 ✅ Connected to MongoDB Atlas successfully
 🚀 Server running on port 5000
-📍 Health check: http://localhost:5000/api/health
+📍 Health check: http://localhost:5000/index.html
 ```
 
 ### Step 4: Open the Frontend
@@ -201,4 +201,5 @@ This project is open source and available for personal use.
 ---
 
 **Happy Coding! 🎉**
+
 
